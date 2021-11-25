@@ -1,5 +1,5 @@
-# Socket Server Basico
+# Socket Server Colas
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Un servidor de Websockets usando Node y Socket.io
 
 
